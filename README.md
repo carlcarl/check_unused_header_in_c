@@ -22,3 +22,9 @@ If the compile time is very long, the script execution will cost a lot of time. 
 * http://stackoverflow.com/a/7135530/667106
 * https://stackoverflow.com/questions/10687174/how-to-tell-gcc-to-stop-using-built-in-functions
 * https://stackoverflow.com/questions/13986301/is-gcc-doing-implicit-function-declarations-incorrectly-in-c99-mode
+
+
+## Authors and License
+The package is written by Chien-Wei Huang. It’s MIT licensed and freely available.
+
+Feel free to improve this package and send a pull request to GitHub.
